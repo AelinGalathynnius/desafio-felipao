@@ -1,6 +1,6 @@
 let nomeHeroi = "Thallya";
 let xpHeroi = 1500;
-let nivelHeroi; // Corrigido o nome da variável
+let nivelHeroi; 
 
 if (xpHeroi <= 1000) {
     nivelHeroi = "Ferro";
